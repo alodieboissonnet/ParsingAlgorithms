@@ -1,0 +1,75 @@
+(|He| |hits| |the| |girl| |with| |the| |umbrella| |in| |the| |park| |.|) 1 ; (-11.506)
+gr-list: 1
+(|ncsubj| |hit+s:1_VVZ| |he:0_PPHS1| _)
+(|iobj| |hit+s:1_VVZ| |with:4_IW|)
+(|dobj| |hit+s:1_VVZ| |girl:3_NN1|)
+(|dobj| |with:4_IW| |umbrella:6_NN1|)
+(|det| |umbrella:6_NN1| |the:5_AT|)
+(|ncmod| _ |umbrella:6_NN1| |in:7_II|)
+(|dobj| |in:7_II| |park:9_NNL1|)
+(|det| |park:9_NNL1| |the:8_AT|)
+(|det| |girl:3_NN1| |the:2_AT|)
+
+
+(|France| |Gall| |is| |dead| |.|) 1 ; (-6.314)
+gr-list: 1
+(|ncsubj| |be+s:2_VBZ| |gall:1_NN1| _)
+(|xcomp| _ |be+s:2_VBZ| |dead:3_JJ|)
+(|ncmod| _ |gall:1_NN1| |France:0_NP1|)
+
+
+(|Apple| |is| |bankrupt| |.|) 1 ; (-4.792)
+gr-list: 1
+(|ncsubj| |be+s:1_VBZ| |apple:0_NN1| _)
+(|xcomp| _ |be+s:1_VBZ| |bankrupt:2_JJ|)
+
+
+(|Vice-Chief| |Andrews| |retired| |.|) 1 ; (-8.956)
+gr-list: 1
+(|ncsubj| |retire+ed:2_VVD| |Andrews:1_NP1| _)
+(|ncmod| _ |Andrews:1_NP1| |vice-chief:0_NNSB1|)
+
+
+(|Vice| |Chief| |Andrews| |retired| |.|) 1 ; (-9.803)
+gr-list: 1
+(|ncsubj| |retire+ed:3_VVD| |Andrews:2_NP1| _)
+(|ncmod| _ |Andrews:2_NP1| |chief:1_NNS1|)
+(|ncmod| _ |chief:1_NNS1| |vice:0_NN1|)
+
+
+(|The| |dog| |came| |down| |the| |stairs| |.|) 1 ; (-4.549)
+gr-list: 1
+(|ncsubj| |come+ed:2_VVD| |dog:1_NN1| _)
+(|dobj| |come+ed:2_VVD| |stair+s:5_NN2|)
+(|det| |stair+s:5_NN2| |the:4_AT|)
+(|ncmod| |prt| |come+ed:2_VVD| |down:3_RP|)
+(|det| |dog:1_NN1| |the:0_AT|)
+
+
+(|Down| |the| |stairs| |came| |the| |dog| |.|) 1 ; (-7.561)
+gr-list: 1
+(|ncmod| _ |come+ed:3_VVD| |down:0_RP|)
+(|ncsubj| |come+ed:3_VVD| |stair+s:2_NN2| _)
+(|dobj| |come+ed:3_VVD| |dog:5_NN1|)
+(|det| |dog:5_NN1| |the:4_AT|)
+(|det| |stair+s:2_NN2| |the:1_AT|)
+
+
+(I |love| |these| |recorded| |videos| |.|) 1 ; (-5.710)
+gr-list: 1
+(|ncsubj| |love:1_VV0| |I:0_PPIS1| _)
+(|ccomp| _ |love:1_VV0| |record+ed:3_VVN|)
+(|ncsubj| |record+ed:3_VVN| |these:2_DD2| _)
+(|obj| |record+ed:3_VVN| |video+s:4_NN2|)
+
+
+(|An| |application| |needs| |computing| |units| |to| |run| |.|) 1 ; (-12.282)
+gr-list: 1
+(|ncsubj| |need+s:2_VVZ| |application:1_NN1| _)
+(|ncsubj| |run:6_VV0| |unit+s:4_NN2| _)
+(|xcomp| |to| |need+s:2_VVZ| |run:6_VV0|)
+(|dobj| |need+s:2_VVZ| |unit+s:4_NN2|)
+(|ncmod| _ |unit+s:4_NN2| |computing:3_NN|)
+(|det| |application:1_NN1| |an:0_AT1|)
+
+
